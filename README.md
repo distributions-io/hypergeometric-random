@@ -4,6 +4,7 @@ Hypergeometric Random Variables
 
 > Creates a [matrix](https://github.com/dstructs/matrix) or array filled with draws from a [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution).
 
+Imagine a scenario with an urn holding black and white balls. Let `m` be the number of white balls in the urn and `n` be the number of black balls. We draw `k` balls from the urn. Defining the random variable `X` as the number of white balls drawn in total, `X` is said to follow a [hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution) with parameters `m`, `n` and `k`.
 
 ## Installation
 
